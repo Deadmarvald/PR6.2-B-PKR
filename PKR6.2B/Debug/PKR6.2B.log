@@ -1,0 +1,4 @@
+﻿  Source.cpp
+D:\Student\Volvenko Ivan IT-12\2 сем\ПКР\PKR6.2B\PKR6.2B\Source.cpp(48,18): warning C4553: '==': result of expression not used; did you intend '='?
+D:\Student\Volvenko Ivan IT-12\2 сем\ПКР\PKR6.2B\PKR6.2B\Source.cpp(70): warning C4715: 'Scan': not all control paths return a value
+  PKR6.2B.vcxproj -> D:\Student\Volvenko Ivan IT-12\2 сем\ПКР\PKR6.2B\Debug\PKR6.2B.exe
